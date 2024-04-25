@@ -1,4 +1,5 @@
 .DS_Store
+.kube/kubecongig.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
